@@ -3,7 +3,7 @@ name: Tourism Wellness Package — MLOps Pipeline
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
 
